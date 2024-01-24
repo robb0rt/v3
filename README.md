@@ -1,8 +1,8 @@
-# Getting Archived as of 1/22/24.
+# was Getting Archived as of 1/22/24.
 
 For more info, browse down.
 
-# Hell
+#  Hell
 
 Tired of games and searching being blocked?
 
@@ -59,3 +59,5 @@ Again, thank you everyone for everything. All of you are way more than I could e
 
 - dachxd
 
+goodbye
+(i did not make this [ robb0rt ] ok bye)
