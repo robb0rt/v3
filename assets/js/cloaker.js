@@ -22,8 +22,8 @@ if (!inFrame && !navigator.userAgent.includes("Firefox")) {
         const style = iframe.style
         const link = doc.createElement("link")
 
-        const name = localStorage.getItem("name") || "Home";
-        const icon = localStorage.getItem("icon") || "https://upload.wikimedia.org/wikipedia/commons/5/59/Google_Classroom_Logo.png";
+        const name = localStorage.getItem("name") || "TORT";
+        const icon = localStorage.getItem("icon") || "https://i.ytimg.com/vi/Xs5c3-Gtkbk/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AG-AYACkAGKAgwIABABGBMgEyh_MA8=&rs=AOn4CLCyRPXhcS1SECLaG1Pym9LAy8JB7A";
         
         doc.title = name;
         link.rel = "icon";
