@@ -54,6 +54,7 @@ I'm not leaving forever, but this project will get archived. If you use any of t
 This was a massive learning experience for me. I'm thankful for everyone who supported me along the way and still use this project. 
 
 This won't officially get archived, since I might add a bit of code here and there. But I will stop working on this for the long run.
+t0rt.netlify.app
 
 Again, thank you everyone for everything. All of you are way more than I could ever ask for. It was nice working on this project, 
 
@@ -62,3 +63,6 @@ Again, thank you everyone for everything. All of you are way more than I could e
 goodbye
 
 (i did not make this [ robb0rt ] ok bye)
+
+
+t0rt.netlify.app
